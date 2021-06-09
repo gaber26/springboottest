@@ -1,0 +1,5 @@
+com/gaber/springboottest/SpringboottestApplication.class
+com/gaber/springboottest/config/CrosConfig.class
+com/gaber/springboottest/entity/Book.class
+com/gaber/springboottest/repository/BookRepository.class
+com/gaber/springboottest/controller/BookHandler.class
